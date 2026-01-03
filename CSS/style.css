@@ -7,7 +7,7 @@ html{
 
 body{
     line-height: 2.0;
-    color:#432
+    color:lightgray;
 }
 
 a{
@@ -41,11 +41,11 @@ a{
 }
 
 .main-nav a{
-    color:#432;
+    color:gray;
 }
 
 .main-nav a:hover{
-    color:#0bd;
+    color:white;
 }
 
 .cover{
