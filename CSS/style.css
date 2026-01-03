@@ -42,6 +42,7 @@ a{
 
 .main-nav a{
     color:gray;
+    border-width: thick;
 }
 
 .main-nav a:hover{
