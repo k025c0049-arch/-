@@ -69,3 +69,13 @@ a{
 .cover-home2{
     background-image:url(../images/1.webp)
 }
+
+.about{
+    max-width:736px;
+    padding: 0 1.5rem;
+    margin:3rem auto 0;
+}
+
+.about p{
+    margin-bottom: 3rem;
+}
