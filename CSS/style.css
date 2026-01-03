@@ -79,3 +79,7 @@ a{
 .about p{
     margin-bottom: 3rem;
 }
+
+.about2{
+    max-width: 100px;
+}
