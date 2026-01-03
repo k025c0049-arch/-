@@ -42,7 +42,8 @@ a{
 
 .main-nav a{
     color:gray;
-    border-width: thick;
+    border-width: thin;
+    border-style:solid;
 }
 
 .main-nav a:hover{
