@@ -123,3 +123,6 @@ a{
     align-self: flex-start;
 }
 
+.p4{
+     white-space: pre;
+}
