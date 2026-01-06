@@ -85,12 +85,9 @@ a{
 }
 
 .about2{
-    max-width: 10rem;
-
-    display:flex;
     align-self: flex-start;
-    white-space: pre;
-    
+    display:flex;
+    width:300px
 }
 
 .about3{
@@ -126,9 +123,13 @@ a{
     align-self: flex-start;
 }
 .p2
-.p3
 .p4{
     white-space: pre;
+}
+
+.p3{
+    white-space: pre;
+    margin-right: 2rem;
 }
 
 .komayamagazou{
@@ -141,5 +142,9 @@ a{
 
 .about4{
     display:flex;
+    white-space: pre;
+}
+
+.heading-large2{
     white-space: pre;
 }
