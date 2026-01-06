@@ -86,7 +86,7 @@ a{
 
 .about2{
     max-width: 10rem;
-    padding-left: 10px;
+
     display:flex;
     align-self: flex-start;
     white-space: pre;
@@ -97,7 +97,7 @@ a{
     max-width: 300px;
     display:flex;
     margin-left:70%;
-    text-align: right;
+    text-align: left;
 }
 
 .soba{
@@ -107,11 +107,13 @@ a{
     float:left;
 
 }
-
 .komayama{
-    margin-left:auto;
-    margin-right:0;
+    margin-left:0;
+    margin-right:100%;
     width:200px;
+    display:flex;
+    align-self: flex-start;
+    white-space: pre;
 }
 .heading-large3{
      margin-left:auto;
@@ -126,5 +128,18 @@ a{
 .p2
 .p3
 .p4{
+    white-space: pre;
+}
+
+.komayamagazou{
+    width: 70%;
+    display:flex;
+    align-self: flex-start;
+    
+    margin-left: auto;
+}
+
+.about4{
+    display:flex;
     white-space: pre;
 }
