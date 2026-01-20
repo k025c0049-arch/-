@@ -29,6 +29,10 @@ a{
     text-align:center;
 
 }
+
+.align-center4{
+    text-align: center;
+}
 /*見出し*/
 
 .font-japanese{
@@ -116,6 +120,9 @@ a{
     width:100px;
 } 
 
+.heading-large4{
+    text-align: center;
+}
 .about2 .p2,
 .about3 .p3 {
     width: 30%;
@@ -126,6 +133,11 @@ a{
      border-width: medium;
     border-style:solid;
      max-width: 35%;
+}
+
+.p5{
+    text-align: center;
+    white-space: pre;
 }
 
 .komayamagazou{
@@ -164,4 +176,8 @@ a{
     top:-0.1px;
     right: -0.1px;
     margin-top: 6rem;
+}
+
+.moritown{
+    width :80%;
 }
